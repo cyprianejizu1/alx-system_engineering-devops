@@ -1,1 +1,3 @@
-i am working now
+#!/bin/bash
+This repository is to test executable commands
+
